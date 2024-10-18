@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.emoji-background {
+  margin: 30px 50px 40px 50px;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: #ffffff33;
+  border: 0;
+  height: 28vh;
+  width: 12vw;
+  cursor: pointer;
+}
